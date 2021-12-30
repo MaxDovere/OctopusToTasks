@@ -2,7 +2,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.EventLog;
-using System.Threading.Tasks;
+using OctopusToTasks.Services;
 
 namespace OctopusToTasks
 {

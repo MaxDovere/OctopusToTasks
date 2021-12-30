@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Threading.Channels;
 using System.Threading;
+using System.Threading.Channels;
+using System.Threading.Tasks;
 
-namespace OctopusToTasks
+namespace OctopusToTasks.Services
 {
     public class DefaultBackgroundTaskQueue : IBackgroundTaskQueue
     {

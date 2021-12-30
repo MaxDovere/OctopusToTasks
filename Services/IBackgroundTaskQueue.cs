@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace OctopusToTasks
+namespace OctopusToTasks.Services
 {
     public interface IBackgroundTaskQueue
     {

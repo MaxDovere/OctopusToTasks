@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using OctopusToTasks.Services;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
